@@ -27,7 +27,7 @@ OpenReview: [https://openreview.net/forum?id=vgt2rSf6al](https://openreview.net/
 
 
 
-## MindSimulator's Train & Inference
+## MindSimulator's Training
 
 **Step 1: Preparation**
 
@@ -46,9 +46,6 @@ Our code is based on MindEye and MindEye2. Therefore, you should first follow th
 **Step 2: Training**
 
 You should run _voxel_autoencoder_aligning.py_ to train the fMRI autocoder and then run _voxel_diffusion_prior.py_ to train the diffusion estimator.
-
-
-**Step 3: Inference**
 
 
 ## Concept-selective Region Localization
