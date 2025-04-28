@@ -23,8 +23,11 @@ arXiv: [https://arxiv.org/abs/2503.02351](https://arxiv.org/abs/2503.02351)
 OpenReview: [https://openreview.net/forum?id=vgt2rSf6al](https://openreview.net/forum?id=vgt2rSf6al)
 
 
+## Results of synthetic fMRI
 
-## Codes & Runs
+
+
+## MindSimulator's Train & Inference
 
 
 
