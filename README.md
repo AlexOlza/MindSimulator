@@ -25,7 +25,7 @@ OpenReview: [https://openreview.net/forum?id=vgt2rSf6al](https://openreview.net/
 
 ## Results of synthetic fMRI
 
-
+For a given image, MindSimulator can synthesize the corresponding fMRI signals. We will release a synthetic dataset composed of these synthetic fMRI signals in a few days (the corresponding image datasets include MSCOCO, CIFAR, and ImageNet). You can directly conduct research based on this synthetic dataset without any need for model training or inference.
 
 ## MindSimulator's Training
 
