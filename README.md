@@ -29,7 +29,7 @@ OpenReview: [https://openreview.net/forum?id=vgt2rSf6al](https://openreview.net/
 
 ## MindSimulator's Train & Inference
 
-
+Our code is based on MindEye and MindEye2. Therefore, you should first follow the [**MindEye2 repository**](https://github.com/MedARC-AI/MindEyeV2) to set up the virtual environment and generative model.
 
 
 ## Acknowledgements
