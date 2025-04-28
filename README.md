@@ -32,8 +32,13 @@ OpenReview: [https://openreview.net/forum?id=vgt2rSf6al](https://openreview.net/
 Our code is based on MindEye and MindEye2. Therefore, you should first follow the [**MindEye2 repository**](https://github.com/MedARC-AI/MindEyeV2) to set up the virtual environment and generative model.
 
 
+## Concept-selective Region Localization
+
+
+
 ## Acknowledgements
 
+Our research is based on [MindEye](https://papers.nips.cc/paper_files/paper/2023/hash/4ddab70bf41ffe5d423840644d3357f4-Abstract-Conference.html), [MindEye2](https://openreview.net/forum?id=65XKBGH5PO), and [BrainDIVE](https://papers.nips.cc/paper_files/paper/2023/hash/ef0c0a23a1a8219c4fc381614664df3e-Abstract-Conference.html). We sincerely appreciate their significant contributions to the research community.
 
 ## Citations
 
