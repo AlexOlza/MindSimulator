@@ -29,7 +29,18 @@ OpenReview: [https://openreview.net/forum?id=vgt2rSf6al](https://openreview.net/
 
 ## MindSimulator's Train & Inference
 
-Our code is based on MindEye and MindEye2. Therefore, you should first follow the [**MindEye2 repository**](https://github.com/MedARC-AI/MindEyeV2) to set up the virtual environment and generative model.
+Our code is based on MindEye and MindEye2. Therefore, you should first follow the [**MindEye2 repository**](https://github.com/MedARC-AI/MindEyeV2) to set up the virtual environment and generative model. Then, you should integrate our modified codes with the [**MindEye2 weight files**](https://huggingface.co/datasets/pscotti/mindeyev2/tree/main) and organize them according to the following directory structure:
+
+- Encoding/
+  - mindeye2_src/
+    - generative_models/...
+    - evals/...
+    - train_logs/...
+    - wds/...
+    - Other MindEye2's Files
+    - Our Modified Codes in "mindeye2_src"
+  - Our Other Codes
+
 
 
 ## Concept-selective Region Localization
