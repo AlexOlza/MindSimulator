@@ -45,12 +45,12 @@ Our code is based on MindEye and MindEye2. Therefore, you should first follow th
 
 **Step 2: Training**
 
-You should run _voxel_autoencoder_aligning.py_ to train the fMRI autocoder and then run _voxel_diffusion_prior.py_ to train the diffusion estimator.
+You need to run _voxel_autoencoder_aligning.py_ to train the fMRI autocoder and then run _voxel_diffusion_prior.py_ to train the diffusion estimator.
 
 
 ## Concept-selective Region Localization
 
-
+You need to first run _coco_image_classification.py_ to build the stimulus set, then run _final_encoding_ae+prior.py_ to obtain the synthetic fMRI signals. Based on these, you can perform a one-sample t-test and multiple comparison correction to obtain the localization results.
 
 ## Acknowledgements
 
