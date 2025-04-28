@@ -29,6 +29,8 @@ OpenReview: [https://openreview.net/forum?id=vgt2rSf6al](https://openreview.net/
 
 ## MindSimulator's Train & Inference
 
+**Step 1: Preparation**
+
 Our code is based on MindEye and MindEye2. Therefore, you should first follow the [**MindEye2 repository**](https://github.com/MedARC-AI/MindEyeV2) to set up the virtual environment and generative model. Then, you should integrate our modified codes with the [**MindEye2 weight files**](https://huggingface.co/datasets/pscotti/mindeyev2/tree/main) and organize them according to the following directory structure:
 
 - Encoding/
@@ -41,6 +43,12 @@ Our code is based on MindEye and MindEye2. Therefore, you should first follow th
     - Our Modified Codes in "mindeye2_src"
   - Our Other Codes
 
+**Step 2: Training**
+
+You should run _voxel_autoencoder_aligning.py_ to train the fMRI autocoder and then run _voxel_diffusion_prior.py_ to train the diffusion estimator.
+
+
+**Step 3: Inference**
 
 
 ## Concept-selective Region Localization
