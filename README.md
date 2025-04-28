@@ -42,6 +42,8 @@ Our research is based on [MindEye](https://papers.nips.cc/paper_files/paper/2023
 
 ## Citations
 
+If our work helps your research, please consider citing our paper, thanks!
+
 ```
 @inproceedings{bao2025mindsimulator,
   title={MindSimulator: Exploring Brain Concept Localization via Synthetic fMRI},
