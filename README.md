@@ -16,6 +16,14 @@ This enables the creation of simulated brain recordings that reflect real neural
 
 The feasibility opens avenues for exploring novel concept-selective regions and provides prior hypotheses for future neuroscience research.
 
+For more details, please refer to our Conference paper.
+
+arXiv: [https://arxiv.org/abs/2503.02351](https://arxiv.org/abs/2503.02351)
+
+OpenReview: [https://openreview.net/forum?id=vgt2rSf6al](https://openreview.net/forum?id=vgt2rSf6al)
+
+
+
 ## Codes & Runs
 
 
