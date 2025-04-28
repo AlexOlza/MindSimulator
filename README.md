@@ -12,7 +12,9 @@ To address these limitations, we propose a data-driven exploration approach. By 
 
 This enables the creation of simulated brain recordings that reflect real neural response patterns. Using the synthetic recordings, we successfully localize several well-studied concept-selective regions and validate them against empirical findings, achieving promising prediction accuracy. We further localized the arbitrary concept-selective regions (as following images). The feasibility opens avenues for exploring novel concept-selective regions and provides prior hypotheses for future neuroscience research.
 
-![Image missed!](./Figs/Localization.png)
+![Image has missed!](./Figs/Localization.png)
+
+
 
 ## Codes & Runs
 
