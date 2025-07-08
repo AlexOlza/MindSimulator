@@ -19,7 +19,7 @@ from torchvision import transforms
 from accelerate import Accelerator
 from torch.utils.data import DataLoader
 sys.path.append("mindeye2_src/")
-from mindeye2_src.generative_models.sgm.modules.encoders.modules import FrozenOpenCLIPImageEmbedder
+from MindEyeV2.src.generative_models.sgm.modules.encoders.modules import FrozenOpenCLIPImageEmbedder
 from mindeye2_src.models import Clipper
 from mindeye2_src.models import VoxelAutoEncoder
 from mindeye2_src.utils import cosine_anneal, soft_clip_loss, batchwise_cosine_similarity, topk, seed_everything
